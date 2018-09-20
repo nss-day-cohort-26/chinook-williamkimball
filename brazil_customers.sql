@@ -1,0 +1,1 @@
+SELECT * FROM Customer Where Customer.Country is 'Brazil'
